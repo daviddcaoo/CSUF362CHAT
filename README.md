@@ -1,7 +1,7 @@
-"# CPSC362Chat" 
+"# CPSC362Chat"
 
-http://herokuchatcpsc362.herokuapp.com/ Tea Branch
+This is my git. https://github.com/daviddcaoo/CSUF362CHAT
 
-Has Naming, Name List. No Auto Scroll. 
+https://csuf362chat.herokuapp.com/
 
-If someone could get rid of the ugly white border and also fix the auto scroll that would be nice.
+No Auto Scroll.
