@@ -74,8 +74,7 @@ socket.emit('new user', name);
 		socket.on('chat message', function(name, msg){
 		
         $('#messages').append($('<li>').text(name+": "+msg));
-		function start_scroll_down() { 
-   scroll = setInterval(function(){ window.scrollBy(0, 1000); console.log('start');}, 1500);
+		window.scrollBy(0,50);
 		
       });
     </script>
