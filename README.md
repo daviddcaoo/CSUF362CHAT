@@ -1,10 +1,7 @@
 "# CPSC362Chat" 
 
-http://cpsc362chat.herokuapp.com
-
 http://herokuchatcpsc362.herokuapp.com/ Tea Branch
 
-Currently has Naming, and Auto Scroll
+Has Naming, Name List. No Auto Scroll. 
 
-//Not working
-https://cpsctea.github.io/CPSC362Chat/
+If someone could get rid of the ugly white border and also fix the auto scroll that would be nice.
